@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VALBUENA CONSULTORIA EMPRESARIAL LTDA- Serviços EspecializadosDD</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f1f4f9;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0px 0px 10px rgba(0,0,0,0.05);
+    }
+    h1 {
+      color: #0e4da1;
+      text-align: center;
+    }
+    h2 {
+      color: #0e4da1;
+      margin-top: 30px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      font-size: 12px;
+      margin-top: 40px;
+      color: #666;
+    }
+    a {
+      color: #0e4da1;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Bem-vindo à VALBUENA CONSULTORIA EMPRESARIAL LTDA</h1>
+    <p>Quem somos: A VALBUENA CONSULTORIA EMPRESARIAL LTDA  é uma empresa especializada em consultoria, serviços relacionados ao apoio administrativo, soluções administrativas e tecnológicas com foco em ajudar as pessoas a otimizar seus processos e melhorar seus resultados..</p>
+
+    <h2>Serviços oferecidos:</h2>
+    <ul>
+      <li>Intermediação de Serviços: Parceria confiável para serviços especializados e administrativos.</li>
+      <li>Apoio Administrativo: Suporte especializado para gestão eficiente e soluções empresariais.</li>
+      <li>Comprometimento: Dedicação total para otimizar o desempenho dos negócios.</li>
+      <li>Atendimento: Suporte ágil e eficiente.</li>
+    </ul>
+
+    <h2>Dados da empresa:</h2>
+    <p><strong>Razão Social:</strong> VALBUENA CONSULTORIA EMPRESARIAL LTDA</p>
+    <p><strong>CNPJ:</strong> 46.052.349/0001-78</p>
+    <p><strong>Telefone:</strong> COLOCAR O TELEFONE</p>
+    <p><strong>E-mail:</strong> contato@valbuenaconsultoriaempresarial.shop</p>
+
+    <p><a href="politica.html">Política de Privacidade</a></p>
+  </div>
+
+  <footer>
+    Razão Social: VALBUENA CONSULTORIA EMPRESARIAL LTDA<br>
+    CNPJ: 46.052.349/0001-78<br>
+    &copy; 2025 VALBUENA CONSULTORIA EMPRESARIAL LTDA. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
